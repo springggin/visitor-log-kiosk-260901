@@ -16,4 +16,4 @@
 - [x] 태블릿 세로 화면과 핵심 접근성 항목 검증
 - [x] 공개 GitHub 저장소 visitor-log-kiosk 생성 및 현재 코드 push
 - [x] Vercel 배포 오류 원인 진단 및 호환 설정 수정
-- [ ] visitor-log-kiosk-260901 저장소의 main 브랜치에 최신 코드 push 및 원격 검증
+- [x] visitor-log-kiosk-260901 저장소의 main 브랜치에 최신 코드 push 및 원격 검증
