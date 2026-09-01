@@ -14,4 +14,5 @@
 - [x] 관리자 전체/오늘 필터를 실제 데이터에 적용하고 카운트를 데이터 기반으로 변경
 - [x] Supabase 데이터 저장 및 Storage 업로드 연동 지점과 실패 시 localStorage 폴백 분기 구현
 - [x] 태블릿 세로 화면과 핵심 접근성 항목 검증
-- [ ] 공개 GitHub 저장소 visitor-log-kiosk 생성 및 현재 코드 push
+- [x] 공개 GitHub 저장소 visitor-log-kiosk 생성 및 현재 코드 push
+- [ ] Vercel 배포 오류 원인 진단 및 호환 설정 수정
